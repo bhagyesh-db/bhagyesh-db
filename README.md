@@ -11,7 +11,7 @@ I'm Bhagyesh, a passionate Data Scientist with a knack for transforming complex 
 ## 🌐 Connect with Me
 
 - [LinkedIn](www.linkedin.com/in/bhagyesh-db)
-- [Twitter]([https://twitter.com/yourhandle](https://x.com/TechSavvyBDB))
+- [Twitter](https://x.com/TechSavvyBDB)
 - [Email](mailto:bhagyesh003baraskar@gmail.com)
 
 ## 🤝 Let's Collaborate
